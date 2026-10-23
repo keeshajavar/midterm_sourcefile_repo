@@ -39,3 +39,9 @@ GitHub: [keeshajavar](https://github.com/keeshajavar)
 - `git switch` — Switch between branches.
 - `git merge` — Combine changes from another branch.
 - `git clone` — Copy a remote repository locally.
+
+## Final Submission
+
+- [x] Organized JavaScript source files by lesson.
+- [x] Added repository documentation.
+- [x] Published the repository on GitHub.
