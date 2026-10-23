@@ -1,17 +1,29 @@
-Midterm Source Files
+# Midterm Source Files
 
-This repository contains my JavaScript source codes and activities for the midterm period.
+This repository contains my JavaScript source code and activities for the midterm period.
 
-Contents
+## Repository Contents
 
-- Lesson 1
-- Lesson 2
-- Lesson 3
+### Lesson 1
+- `gradeAnalyzer.js`
+- `gradeAnalyzerV2.js`
 
-Purpose
+These programs demonstrate grade analysis and basic JavaScript programming concepts.
+
+### Lesson 2
+- `Javar_KeeshaClarisse_W5_ArrayExercise.js`
+
+This activity contains JavaScript array exercises.
+
+### Lesson 3
+- `Javar_KeeshaClaisse_CC104_W6_Exercise.js`
+
+This file contains the source code for my Lesson 3 activity.
+
+## Purpose
 
 This repository is part of my Week 11 GitHub Basics activity. It demonstrates how to organize source files, track changes, create commits, manage branches, merge changes, clone a repository, and synchronize changes with GitHub.
 
-Author
+## Author
 
-GitHub: keeshajavar
+GitHub: [keeshajavar](https://github.com/keeshajavar)
