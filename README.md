@@ -27,3 +27,15 @@ This repository is part of my Week 11 GitHub Basics activity. It demonstrates ho
 ## Author
 
 GitHub: [keeshajavar](https://github.com/keeshajavar)
+
+## Git Workflow
+
+- `git status` — Check the current working tree.
+- `git add` — Stage changes for a commit.
+- `git commit` — Save a snapshot of changes.
+- `git push` — Upload local commits to GitHub.
+- `git pull` — Download and integrate remote changes.
+- `git branch` — List or create branches.
+- `git switch` — Switch between branches.
+- `git merge` — Combine changes from another branch.
+- `git clone` — Copy a remote repository locally.
